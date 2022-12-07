@@ -1,18 +1,17 @@
-body{
-    background-color: rgb(34, 73, 139);
-    color: yellow;
-}
-
 header{
     text-align: center;
 }
-nav {
-    height: 600px;
-    width: 240px;
+nav{
+    height: 6000px;
+    width: 300px;
     float: left;
     padding: 5px;
     line-height: 30px;
 
+}
+body{
+    background-color: rgb(34, 73, 139);
+    color: yellow;
 }
 footer{
     text-align: center;
@@ -24,7 +23,7 @@ a:link {
   }
   
   a:visited {
-    color: yellow;
+    color: rgb(43, 226, 162);
     background-color: transparent;
     text-decoration: none;
   }
@@ -40,5 +39,3 @@ a:link {
     background-color: transparent;
     text-decoration: underline;
   }
-
-

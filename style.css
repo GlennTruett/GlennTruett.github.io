@@ -32,3 +32,37 @@ body{
     border-color: lightblue;
 
 }
+nav{
+    height: 6000px;
+    width: 300px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+
+}
+header{
+    text-align: center;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
